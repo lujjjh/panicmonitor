@@ -7,7 +7,7 @@ Inspired by [panicwrap](https://github.com/mitchellh/panicwrap).
 ## Installation
 
 ```sh
-go install -u github.com/lujjjh/panicmonitor/cmd/panicmonitor
+go install github.com/lujjjh/panicmonitor/cmd/panicmonitor
 ```
 
 ## Configuration
