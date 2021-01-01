@@ -10,6 +10,13 @@ Inspired by [panicwrap](https://github.com/mitchellh/panicwrap).
 go get github.com/lujjjh/panicmonitor/cmd/panicmonitor/...
 ```
 
+or
+
+```sh
+git clone https://github.com/lujjjh/panicmonitor
+cd panicmonitor && make install
+```
+
 ## Configuration
 
 Create a configuration file wherever you want, for example, `/etc/panicmonitor.toml`.
